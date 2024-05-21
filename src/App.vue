@@ -1,0 +1,7 @@
+<template>
+  <v-app>
+    <v-main>
+      <MainPage />
+    </v-main>
+  </v-app>
+</template>
